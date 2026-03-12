@@ -1,0 +1,20 @@
+{
+  "App": {
+    "title": "Habit Game",
+    "dashboard": "Dashboard",
+    "habitsGrid": "Habits Grid",
+    "progress": "Progress Graph",
+    "completed": "Completed",
+    "notCompleted": "Not Completed",
+    "tasks": "Tasks",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "addHabit": "Add Habit",
+    "habitName": "Habit Name",
+    "weeklyProgress": "Weekly Progress",
+    "completionRate": "Completion Rate %"
+  }
+}
